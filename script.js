@@ -15,7 +15,7 @@
   Mostrar na tela o resultado de cada uma dessas operações!
 */
 
-alert("Insirar na tela dois número para realizar as operações matemáticas!")
+alert("Insirar na tela dois números para realizar as operações matemáticas!")
 
 // 1° passo - Pedir o usuário para inserir dois números;subtração
 let userNumberOne = Number(prompt("Digite o primeiro número"));
