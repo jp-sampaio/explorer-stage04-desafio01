@@ -1,6 +1,6 @@
 # explorer-stage04-desafio01
 <p>
-  <img src="./tumb.png" alt="Imagem do projeto" width="100%">
+  <img src="./images/tumb.png" alt="Imagem do projeto" width="100%">
 </p>
 
 ## 🖥️ Projeto
